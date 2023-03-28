@@ -10,8 +10,7 @@ Bootstrap es un framework front-end utilizado para desarrollar aplicaciones web 
 Ejemplo de Portfolio con Bootstrap V4
 
 Para visualizar el resultado del ejercicio puesdes hacer [click aquí](https://udanprg.github.io/bootstrap-UdanPrg/)
-
-Puedes encontrarme en mis redes sociales siguiente:
+___________________________________________
 
 Pueden encontrarme en mis redes sociales siguientes:
 
